@@ -40,11 +40,9 @@ This project leverages large language models (LLMs) to help job seekers and prof
 
 ## 📸 Screenshots
 
-| Resume Generator | Cover Letter Generator |
-|------------------|-----------------------|
-| ![Resume Tab Screenshot](<img width="1464" height="835" alt="Screenshot 2025-10-05 at 10 19 15 AM" src="https://github.com/user-attachments/assets/6e2e90d2-e689-4cdd-871f-dbf4e057a4ab" />
-) | ![Cover Letter Tab Screenshot<img width="1464" height="835" alt="Screenshot 2025-10-05 at 9 45 04 AM" src="https://github.com/user-attachments/assets/a407cb77-b2da-499c-bea8-72fe7360b829" />
-) |
+| Resume Generator & Cover Letter Generator |
+
+<img width="1464" height="835" alt="Screenshot 2025-10-05 at 10 19 15 AM" src="https://github.com/user-attachments/assets/6e2e90d2-e689-4cdd-871f-dbf4e057a4ab" /> <img width="1464" height="835" alt="Screenshot 2025-10-05 at 9 45 04 AM" src="https://github.com/user-attachments/assets/a407cb77-b2da-499c-bea8-72fe7360b829" />
 
 ---
 
